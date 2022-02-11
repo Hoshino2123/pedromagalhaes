@@ -1,4 +1,4 @@
-# Olá! bem vindo ao repositório do pedro magalhaes 😎
+# Olá! bem vindo ao repositório do pedro magalhaes 😎🤟
 
 - 🎓 Estou a tirar o curso de técnico de gestão e programação de sistemas informátcos na escola digital
 - 💬  Ask me About....
@@ -21,6 +21,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/micro
  <img align="center" alt="WORDPRESS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
  </div>
  
+ </div>
+ <a herf="https://picrew.me/image_maker/338224/complete?cd=0PogzNfLn9"
+ 
  ##
  
  👉 REDES:
@@ -34,5 +37,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/micro
   <a href="magalhaesp810@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="magalhaespt5@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  
- ![Snake animation]("https://github.com/Pedro-Magalhaes-Coding/pedromagalhaes/blob/output/github-contribution-grid-snake.svg")
   </div>
