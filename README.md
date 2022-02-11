@@ -6,7 +6,7 @@
 - 📧 Fale comigo no mail secundário : magalhaespt5@gmail.com
 
 
-##
+###
 <div style="display: inline-block"<br>
 <img align="center" alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />"
@@ -22,6 +22,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/micro
  <img align="center" alt="WORDPRESS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
  </div>
  
+ ###
   <div>
   <a href="https://www.youtube.com/channel/UCifU7mrMXDbAsw4Dmom580g" target"_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/zxdeadpool2xx" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
